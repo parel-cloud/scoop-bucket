@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/parel-cloud/parel-cli/releases/download/v0.1.0/parel_0.1.0_windows_amd64.zip",
+            "bin": [
+                "parel.exe"
+            ],
+            "hash": "adef82def08b1911610e07b32a3cf7cba3243bab0a303a98def51eafd9e5cb3e"
+        }
+    },
+    "homepage": "https://parel.cloud",
+    "license": "MIT",
+    "description": "Parel CLI - single binary for the Parel AI gateway"
+}
