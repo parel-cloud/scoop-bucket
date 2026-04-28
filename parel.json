@@ -1,12 +1,12 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/parel-cloud/parel-cli/releases/download/v0.1.4/parel_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/parel-cloud/parel-cli/releases/download/v0.1.5/parel_0.1.5_windows_amd64.zip",
             "bin": [
                 "parel.exe"
             ],
-            "hash": "77631c63b4af58db18b50ee5e4116d9692561b2e73ea0ef534f0e03a5e12e8c9"
+            "hash": "f775ac8d441cbde4bc3e5dea4c5e38807f9afaa3642f1e1d63a18b2b81235e15"
         }
     },
     "homepage": "https://parel.cloud",
